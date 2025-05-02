@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
